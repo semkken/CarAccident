@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#FF211725</color>
+    <color name="colorPrimaryDark">#170F1A</color>
+    <color name="colorAccent">#533A61</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="text">#26c7db</color>
+
+    <color name="bgMain">#ffffff</color>
+    <color name="overlay">#8B353535</color>
+    <color name="overlaylight">#68818181</color>
+
+    <color name="overlaydark">#D0000000</color>
+    <color name="transperent">#00FFFFFF</color>
+
+    <color name="darkcolorGrey">#666666</color>
+    <color name="colorBg">#707070</color>
+    <color name="colorGrey">#bcbcbc</color>
+
+    <color name="colorBlack">#000000</color>
+    <color name="colorWhite">#ffffff</color>
+
+    <color name="colorFB">#3B5998</color>
+    <color name="colorGoogle">#DC4E41</color>
+    <color name="colorSignIn">#83DAA6</color>
+
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+</resources>

@@ -1,0 +1,11 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_Detection"
+        android:title="@string/menu_Classification"
+        android:icon="@drawable/baseline_document_scanner_24" />
+
+    <item
+        android:id="@+id/menu_History"
+        android:title="@string/menu_History"
+        android:icon="@drawable/baseline_history_edu_24" />
+</menu>

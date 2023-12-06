@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Car Accident</string>
+    <string name="app_name_kk_dev">Car Accident\n65130896</string>
+
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="menu_Classification">Classification</string>
+    <string name="menu_History">History</string>
+</resources>
