@@ -94,6 +94,7 @@ public class DetectionFragment extends Fragment {
                             newData.categoryName = categoryName;
                             newData.probabilityScore = probabilityScore;
                             newData.dateEvent = System.currentTimeMillis();
+                            dataInterface.keepLatest100Rows();
                             dataInterface.insert(newData);
 
                             requireActivity().runOnUiThread(() -> {

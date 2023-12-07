@@ -39,7 +39,6 @@ public class HistoryFragment extends Fragment {
     private class GetDataAsyncTask extends AsyncTask<Void, Void, List<DataEntity>> {
         @Override
         protected List<DataEntity> doInBackground(Void... voids) {
-            dataInterface.keepLatest100Rows();
             return dataInterface.getAllData();
         }
         @Override
