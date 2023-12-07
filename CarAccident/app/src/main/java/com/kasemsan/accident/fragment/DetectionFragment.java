@@ -92,7 +92,7 @@ public class DetectionFragment extends Fragment {
                             float probabilityScore = highestProbabilityCategory.getScore();
                             DataEntity newData = new DataEntity();
                             newData.categoryName = categoryName;
-                            newData.probabilityScore = 0.75;
+                            newData.probabilityScore = probabilityScore;
                             newData.dateEvent = System.currentTimeMillis();
                             dataInterface.insert(newData);
 
