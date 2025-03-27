@@ -1,0 +1,1 @@
+CarAccident is an Android application that utilizes the car_model_kk.tflite model to analyze and detect car accidents in real-time. Powered by TensorFlow Lite and machine learning algorithms, this app provides intelligent accident detection and notification features.
